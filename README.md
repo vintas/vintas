@@ -5,4 +5,4 @@ I am Avinash(he/him). I love the software systems that run our world and am infi
 - 🔭 I am currently doing my Masters at BITS-Pilani.
 - 💬 Ask me about Python, Git, Linux, design, typography and life.
 - ⚡ Skilled in Backend development, deployment strategies and teamwork.
-- 📈 Worked on transforming development culture.
+- 📈 Work on transforming development culture.
